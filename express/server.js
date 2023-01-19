@@ -1,3 +1,4 @@
+'use strict';
 const Element = require("./Element");
 const express = require("express");
 const cors = require("cors");
